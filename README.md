@@ -1,5 +1,5 @@
-# Akatsuki's Draft – AI-Enabled Content Sharing Platform (Backend)
-Nodevember 4.0 · Node.js · Express · MongoDB (Mongoose) · JWT · Google Gemini
+ – AI-Enabled Content Sharing Platform (Backend)
+ · Node.js · Express · MongoDB (Mongoose) · JWT · Google Gemini
 
 ## Setup
 ```bash
